@@ -10,4 +10,4 @@ Information about the CodedotAI reading group sessions.
 
 **Slides**: https://docs.google.com/presentation/d/1vC-Rqr4TPjlumEaAeYhdDFG-X9RJ410tX-fQij7dPmY/edit?usp=sharing
 
-**Recording**: Coming soon!
+**Recording**: https://www.youtube.com/watch?v=Ty0W_34km6g
